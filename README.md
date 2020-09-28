@@ -6,4 +6,4 @@
 - :man_technologist: ​ Currently Software Developer at @Vizir 
 - :computer: Working specially with TypeScript, React, React Native and NodeJS
 - :book: Always learning
-- :airplane: Aviation enthusiast and Sports fan:basketball: :rugby_football::soccer:
+- :airplane: Aviation enthusiast and Sports fan :basketball::rugby_football::soccer:
